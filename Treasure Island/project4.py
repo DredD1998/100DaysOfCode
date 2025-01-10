@@ -27,13 +27,11 @@ elif your_choice1 == "left":
     else:
         print("Not a valid choice!")
         print("You loss!")
-
         exit()
+
 
 
 else:
     print("Not a valid choice!")
     print("You loss!")
-
     exit()
-

@@ -8,8 +8,6 @@ lives = 0
 print(hangman_art_logo.welcome)
 print(hangman_art_logo.logo)
 
-
-choices = ["Supriya","Leesha","DredD","Anshuman"]
 random_choice = random.choice(randomwords.words)
 print(random_choice)
 
